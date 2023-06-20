@@ -5,4 +5,4 @@
 3. 在書櫃那頁，把網頁捲到最底下，確認讀取完全部書本，按下書籤複製網頁文字
 4. 在 Excel 貼上
 
-[教學投影片](https://docs.google.com/presentation/d/1WMrwjj6R927XEYJKVX4eqGnJKkJ9s-8wTrl8ckd9ws8/edit#slide=id.gc2c595ec36_0_7)
+[教學投影片](https://docs.google.com/presentation/d/1uHDI-zQ_zxOrPoxdT5WJtAXMlfJd8AV0n6jdQamXZQI)
